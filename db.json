@@ -1,7 +1,4 @@
 {
-  "Location": { 
-        "SIC": "UPO"
-  },
   "PRO": [
     { "PRO#": "642705792", "Consignee": "CARDINAL HEALTH AT HOME", "EQUIP_NBR": "313-2589", "PO#": "5432185", "PCS": "2", "WEIGHT": "55", "TDC": "TDC ON 11/01" },
     { "PRO#": "642720820", "Consignee": "CONSTRUCTION EQUIPMENT CO", "EQUIP_NBR": "311-5388", "PO#": "837371", "PCS": "2", "WEIGHT": "55", "TDC": "TDC ON 11/01 AT 11:00" },
